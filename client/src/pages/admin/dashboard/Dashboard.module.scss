@@ -1,0 +1,13 @@
+.dashboard {
+    width: 100%;
+    min-height: 88.5vh;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+    .widgets {
+        display: flex;
+        padding: 20px;
+        gap: 20px;
+    }
+}
